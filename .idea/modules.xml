@@ -4,9 +4,23 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Week1/ArtikYil/ArtikYil.iml" filepath="$PROJECT_DIR$/Week1/ArtikYil/ArtikYil.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/AsalSayi/AsalSayi.iml" filepath="$PROJECT_DIR$/Week1/AsalSayi/AsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/BoyKiloEndeksi/BoyKiloEndeksi.iml" filepath="$PROJECT_DIR$/Week1/BoyKiloEndeksi/BoyKiloEndeksi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/CinZodyagi/CinZodyagi.iml" filepath="$PROJECT_DIR$/Week1/CinZodyagi/CinZodyagi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/DairedeAlanCevre/DairedeAlanCevre.iml" filepath="$PROJECT_DIR$/Week1/DairedeAlanCevre/DairedeAlanCevre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Week1/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/FlightTicket/FlightTicket.iml" filepath="$PROJECT_DIR$/Week1/FlightTicket/FlightTicket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/HipotenusBulma/HipotenusBulma.iml" filepath="$PROJECT_DIR$/Week1/HipotenusBulma/HipotenusBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/InvertedTriangle/InvertedTriangle.iml" filepath="$PROJECT_DIR$/Week1/InvertedTriangle/InvertedTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/KdvHesaplama/KdvHesaplama.iml" filepath="$PROJECT_DIR$/Week1/KdvHesaplama/KdvHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/ManavKasa/ManavKasa.iml" filepath="$PROJECT_DIR$/Week1/ManavKasa/ManavKasa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/MaxMinDegerBulma/MaxMinDegerBulma.iml" filepath="$PROJECT_DIR$/Week1/MaxMinDegerBulma/MaxMinDegerBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/NotOrtalamasi/NotOrtalamasi.iml" filepath="$PROJECT_DIR$/Week1/NotOrtalamasi/NotOrtalamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/Week1/PerfectNumber/PerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Week1/Taksimetre/Taksimetre.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/UsHesabi/UsHesabi.iml" filepath="$PROJECT_DIR$/Week2/UsHesabi/UsHesabi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/asalSayi/asalSayi.iml" filepath="$PROJECT_DIR$/Week2/asalSayi/asalSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/deneme.iml" filepath="$PROJECT_DIR$/deneme.iml" />
     </modules>
   </component>

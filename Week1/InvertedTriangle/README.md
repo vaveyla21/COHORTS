@@ -1,0 +1,1 @@
+kullanıcıdan kaç satır olması gerektiği bilgisini alıp yarım üçgen oluşturan program

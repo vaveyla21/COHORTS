@@ -1,0 +1,1 @@
+kısa ve uzun kenar bilgilerini alıp hipotenüsü bulan program
